@@ -1,0 +1,117 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About JIAYI",
+    "aboutCompanyProfile": "Company Profile",
+    "aboutRdManufacturing": "R&D & Manufacturing Capacity",
+    "aboutNews": "News & Exhibitions",
+    "products": "Products",
+    "industries": "Industry Applications",
+    "services": "Services",
+    "servicesCareer": "Career",
+    "servicesCooperate": "Cooperate",
+    "servicesEvents": "Events",
+    "servicesTechnology": "Technology",
+    "servicesCatalogs": "Catalogs",
+    "contact": "Contact US"
+  },
+  "categories": {
+    "holeMaking": "Hole Making",
+    "milling": "Milling",
+    "cavityTools": "Cavity Tools",
+    "portTools": "Port Tools",
+    "compositeMaterialMachining": "Composite Material Machining",
+    "threadingTools": "Threading Tools",
+    "gearTools": "Gear Tools"
+  },
+  "industries": {
+    "aerospace": "Aerospace & Aviation",
+    "automotive": "Automotive Manufacturing",
+    "medical": "Medical Devices & Equipment",
+    "power": "Power & Energy",
+    "electronics": "Electronics & Semiconductors",
+    "hydraulics": "Hydraulics",
+    "shipbuilding": "Shipbuilding & Marine Engineering",
+    "railTransit": "Rail Transit & Transportation"
+  },
+  "home": {
+    "heroHeadline": "Precision Carbide Cutting Tools",
+    "heroSubheadline": "Advanced manufacturing solutions for global industries since 2009",
+    "heroCTA": "View Products",
+    "featuredProducts": "Featured Products",
+    "companyStats": "Company at a Glance",
+    "statFounded": "Founded",
+    "statFacilitySize": "Facility Size",
+    "statDailyOutput": "Daily Output",
+    "statCountriesServed": "Countries Served",
+    "industryApplications": "Industry Applications",
+    "whyChooseJiayi": "Why Choose JIAYI",
+    "whyCustomTooling": "Custom Tooling",
+    "whyAdvancedCoatings": "Advanced Coatings",
+    "whyPrecisionManufacturing": "Precision Manufacturing",
+    "whyCompetitivePricing": "Competitive Pricing"
+  },
+  "products": {
+    "viewDetails": "View Details",
+    "requestQuote": "Request a Quote",
+    "specifications": "Specifications",
+    "coatings": "Available Coatings",
+    "compatibleMaterials": "Compatible Materials",
+    "downloadSpec": "Download Specification Sheet",
+    "relatedProducts": "Related Products",
+    "productsPerPage": "Products per page",
+    "page": "Page",
+    "of": "of"
+  },
+  "footer": {
+    "companyInfo": "Company Information",
+    "address": "Shenzhen, Guangdong, China",
+    "phone": "Phone",
+    "email": "Email",
+    "quickLinks": "Quick Links",
+    "copyright": "© 2024 JIAYI Tools. All rights reserved."
+  },
+  "contact": {
+    "pageTitle": "Contact Us",
+    "getInTouch": "Get in Touch",
+    "formHeading": "Send us a message"
+  },
+  "form": {
+    "fullName": "Full Name",
+    "fullNamePlaceholder": "Enter your full name",
+    "companyName": "Company Name",
+    "companyNamePlaceholder": "Enter your company name (optional)",
+    "email": "Email Address",
+    "emailPlaceholder": "your.email@example.com",
+    "phone": "Phone Number",
+    "phonePlaceholder": "Enter your phone number (optional)",
+    "country": "Country",
+    "countryPlaceholder": "Select your country",
+    "productOfInterest": "Product of Interest",
+    "productOfInterestPlaceholder": "Enter product name or category",
+    "message": "Message",
+    "messagePlaceholder": "Tell us about your requirements...",
+    "submit": "Submit Inquiry",
+    "submitting": "Submitting...",
+    "successMessage": "Thank you for your inquiry! We will contact you shortly.",
+    "errorMessage": "Failed to submit the form. Please try again."
+  },
+  "validation": {
+    "required": "This field is required",
+    "invalidEmail": "Please enter a valid email address",
+    "messageTooLong": "Message must be 2000 characters or less",
+    "fieldTooShort": "This field is too short",
+    "fieldTooLong": "This field is too long"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "notFound": "Page not found",
+    "backToHome": "Back to Home",
+    "readMore": "Read More",
+    "learnMore": "Learn More",
+    "viewAll": "View All",
+    "previous": "Previous",
+    "next": "Next"
+  }
+}

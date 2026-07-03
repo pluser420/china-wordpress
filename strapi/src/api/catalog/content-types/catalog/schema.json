@@ -1,0 +1,59 @@
+{
+  "kind": "collectionType",
+  "collectionName": "catalogs",
+  "info": {
+    "singularName": "catalog",
+    "pluralName": "catalogs",
+    "displayName": "Catalog",
+    "description": "Product catalogs with i18n support"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true,
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    },
+    "description": {
+      "type": "text",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    },
+    "coverThumbnail": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": ["images"],
+      "pluginOptions": {
+        "i18n": {
+          "localized": false
+        }
+      }
+    },
+    "pdfFile": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": ["files"],
+      "pluginOptions": {
+        "i18n": {
+          "localized": false
+        }
+      }
+    }
+  }
+}

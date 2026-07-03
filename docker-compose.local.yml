@@ -1,0 +1,36 @@
+# ============================================================
+# Local development override for docker-compose.yml
+#
+# Usage:
+#   docker compose -f docker-compose.yml -f docker-compose.local.yml up -d
+#
+# What this does differently from production:
+#   - Exposes Strapi on port 1337 directly (no Nginx TLS required)
+#   - Exposes Next.js on port 3000 directly
+#   - Replaces Nginx with a simple HTTP-only proxy (no TLS, no /etc/letsencrypt)
+#   - Sets NODE_ENV=development for Strapi so it runs in develop mode
+# ============================================================
+
+services:
+  strapi:
+    # Override to expose Strapi directly for local access and admin panel
+    ports:
+      - "1337:1337"
+    environment:
+      NODE_ENV: development
+
+  next:
+    # Override to expose Next.js directly for local browser access
+    ports:
+      - "3000:3000"
+    environment:
+      NODE_ENV: development
+
+  nginx:
+    # Replace production nginx with a simple HTTP-only local config
+    volumes:
+      - ./nginx/nginx.local.conf:/etc/nginx/nginx.conf:ro
+      - strapi_uploads:/var/www/uploads:ro
+    ports:
+      - "80:80"
+    # Remove the TLS port and letsencrypt mount

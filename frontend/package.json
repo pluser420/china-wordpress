@@ -1,0 +1,44 @@
+{
+  "name": "jiayi-tools-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "jest --runInBand",
+    "test:watch": "jest --watch"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "5.4.0",
+    "next": "14.2.23",
+    "next-intl": "^3.26.2",
+    "nodemailer": "^6.9.16",
+    "pino": "^9.5.0",
+    "qs": "^6.13.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-hook-form": "^7.54.2",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.2.0",
+    "@testing-library/react": "^14.2.1",
+    "@types/jest": "^29.5.11",
+    "@types/node": "^20",
+    "@types/nodemailer": "^6.4.17",
+    "@types/qs": "^6.9.17",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.23",
+    "fast-check": "^3.23.2",
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}

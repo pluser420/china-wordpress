@@ -1,0 +1,38 @@
+# Environment files — never commit these
+.env
+.env.local
+.env.production
+
+# Node modules
+node_modules/
+frontend/node_modules/
+strapi/node_modules/
+
+# Next.js build output
+frontend/.next/
+frontend/out/
+
+# Strapi build output
+strapi/build/
+strapi/dist/
+strapi/.cache/
+
+# Docker volumes (local data)
+postgres_data/
+strapi_uploads/
+
+# Large binary files
+*.zip
+*.pdf
+*.cdr
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE
+.vscode/

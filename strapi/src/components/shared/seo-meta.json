@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_shared_seo_metas",
+  "info": {
+    "displayName": "SeoMeta",
+    "description": "Reusable SEO metadata component"
+  },
+  "options": {},
+  "attributes": {
+    "metaTitle": {
+      "type": "string",
+      "maxLength": 70
+    },
+    "metaDescription": {
+      "type": "string",
+      "maxLength": 160
+    },
+    "keywords": {
+      "type": "text"
+    }
+  }
+}

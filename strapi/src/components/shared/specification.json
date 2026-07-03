@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_shared_specifications",
+  "info": {
+    "displayName": "Specification",
+    "description": "Key-value pair for product specifications"
+  },
+  "options": {},
+  "attributes": {
+    "key": {
+      "type": "string",
+      "required": true
+    },
+    "value": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

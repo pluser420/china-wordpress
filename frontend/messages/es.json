@@ -1,0 +1,117 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Acerca de JIAYI",
+    "aboutCompanyProfile": "Perfil de la Empresa",
+    "aboutRdManufacturing": "Capacidad de I+D y Fabricación",
+    "aboutNews": "Noticias y Exposiciones",
+    "products": "Productos",
+    "industries": "Aplicaciones Industriales",
+    "services": "Servicios",
+    "servicesCareer": "Carrera",
+    "servicesCooperate": "Cooperar",
+    "servicesEvents": "Eventos",
+    "servicesTechnology": "Tecnología",
+    "servicesCatalogs": "Catálogos",
+    "contact": "Contáctenos"
+  },
+  "categories": {
+    "holeMaking": "Herramientas de Perforación",
+    "milling": "Fresado",
+    "cavityTools": "Herramientas de Cavidad",
+    "portTools": "Herramientas de Puerto",
+    "compositeMaterialMachining": "Mecanizado de Materiales Compuestos",
+    "threadingTools": "Herramientas de Roscado",
+    "gearTools": "Herramientas de Engranajes"
+  },
+  "industries": {
+    "aerospace": "Aeroespacial y Aviación",
+    "automotive": "Fabricación Automotriz",
+    "medical": "Dispositivos y Equipos Médicos",
+    "power": "Energía y Potencia",
+    "electronics": "Electrónica y Semiconductores",
+    "hydraulics": "Hidráulica",
+    "shipbuilding": "Construcción Naval e Ingeniería Marina",
+    "railTransit": "Tránsito Ferroviario y Transporte"
+  },
+  "home": {
+    "heroHeadline": "Herramientas de Corte de Carburo de Precisión",
+    "heroSubheadline": "Soluciones de fabricación avanzadas para industrias globales desde 2009",
+    "heroCTA": "Ver Productos",
+    "featuredProducts": "Productos Destacados",
+    "companyStats": "La Empresa de un Vistazo",
+    "statFounded": "Fundada",
+    "statFacilitySize": "Tamaño de las Instalaciones",
+    "statDailyOutput": "Producción Diaria",
+    "statCountriesServed": "Países Atendidos",
+    "industryApplications": "Aplicaciones Industriales",
+    "whyChooseJiayi": "Por Qué Elegir JIAYI",
+    "whyCustomTooling": "Herramientas Personalizadas",
+    "whyAdvancedCoatings": "Revestimientos Avanzados",
+    "whyPrecisionManufacturing": "Fabricación de Precisión",
+    "whyCompetitivePricing": "Precios Competitivos"
+  },
+  "products": {
+    "viewDetails": "Ver Detalles",
+    "requestQuote": "Solicitar Cotización",
+    "specifications": "Especificaciones",
+    "coatings": "Revestimientos Disponibles",
+    "compatibleMaterials": "Materiales Compatibles",
+    "downloadSpec": "Descargar Hoja de Especificaciones",
+    "relatedProducts": "Productos Relacionados",
+    "productsPerPage": "Productos por página",
+    "page": "Página",
+    "of": "de"
+  },
+  "footer": {
+    "companyInfo": "Información de la Empresa",
+    "address": "Shenzhen, Guangdong, China",
+    "phone": "Teléfono",
+    "email": "Correo Electrónico",
+    "quickLinks": "Enlaces Rápidos",
+    "copyright": "© 2024 JIAYI Tools. Todos los derechos reservados."
+  },
+  "contact": {
+    "pageTitle": "Contáctenos",
+    "getInTouch": "Póngase en Contacto",
+    "formHeading": "Envíenos un mensaje"
+  },
+  "form": {
+    "fullName": "Nombre Completo",
+    "fullNamePlaceholder": "Ingrese su nombre completo",
+    "companyName": "Nombre de la Empresa",
+    "companyNamePlaceholder": "Ingrese el nombre de su empresa (opcional)",
+    "email": "Correo Electrónico",
+    "emailPlaceholder": "su.correo@ejemplo.com",
+    "phone": "Número de Teléfono",
+    "phonePlaceholder": "Ingrese su número de teléfono (opcional)",
+    "country": "País",
+    "countryPlaceholder": "Seleccione su país",
+    "productOfInterest": "Producto de Interés",
+    "productOfInterestPlaceholder": "Ingrese el nombre o categoría del producto",
+    "message": "Mensaje",
+    "messagePlaceholder": "Cuéntenos sobre sus requisitos...",
+    "submit": "Enviar Consulta",
+    "submitting": "Enviando...",
+    "successMessage": "¡Gracias por su consulta! Nos pondremos en contacto con usted en breve.",
+    "errorMessage": "Error al enviar el formulario. Por favor, inténtelo de nuevo."
+  },
+  "validation": {
+    "required": "Este campo es obligatorio",
+    "invalidEmail": "Por favor, ingrese un correo electrónico válido",
+    "messageTooLong": "El mensaje debe tener 2000 caracteres o menos",
+    "fieldTooShort": "Este campo es demasiado corto",
+    "fieldTooLong": "Este campo es demasiado largo"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Ha ocurrido un error",
+    "notFound": "Página no encontrada",
+    "backToHome": "Volver al Inicio",
+    "readMore": "Leer Más",
+    "learnMore": "Aprender Más",
+    "viewAll": "Ver Todo",
+    "previous": "Anterior",
+    "next": "Siguiente"
+  }
+}
